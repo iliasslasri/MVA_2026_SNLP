@@ -1,1 +1,87 @@
 # MVA_2026_SNLP
+
+MVA Course "Algorithms for speech and natural language processing", 2026 
+
+## News
+
+
+## Course organisers
+
+This year, the course is co-organised by: Chloé Clavel (Inria), Emmanuel Dupoux (ENS), Benoît Sagot (Inria) and Rachel Bawden (Inria) 
+
+## Contact information
+
+For any questions/requests related to this course, use this address: mva.speech.language@gmail.com.
+
+## Course materials
+
+### Course Objectives
+
+Speech and natural language processing is a subfield of artificial intelligence used in an increasing number of applications. This course will provide an overview and details of techniques and tasks used in the automatic processing of text and speech, covering certain history aspects of the field, the representation of textual and speech data, language modelling, machine translation, sentiment analysis and other labelling tasks, chatbots and speech synthesis and recognition. The aim is to provide the key principles, algorithms and mathematical principles behind the state of the art, and confronting them with the reality of processing real data. 
+
+Topics:
+
+- speech features & signal processing
+- hidden markov & finite state modeling
+- word embeddings
+- deep learning for NLP (RNNs, transformers)
+- neural language modelling, including large language models (LLMs)
+- machine translation
+- sentiment analysis
+- sequence labelling tasks
+- chatbots
+- evaluation: comparing human and machine performance
+- speech synthesis and speech recognition
+- code generation and agents
+
+
+## Prerequisites
+
+Basic linear algebra, calculus, probability theory, basic machine/deep learning
+
+## Organisation
+
+### 9 classes
+
+The course consists of 9 three-hours slots. This year, it will take place in person, on Thursdays from 2pm to 5pm in the Salle des Actes at the Ecole Normale Supérieure, (ENS, 45 rue d'ULM, 5e).
+
+Each three-hour slot will have a lecture lasting approximately two hours, followed by a quiz and Q&As.
+
+### Evaluation
+
+Evaluation consists of 2 parts:
+- **Quizzes** (40% of the total grade): You will be given a link to an online questionnaire (google form) and will have 30 minutes to complete the questionnaire, which will be activated exactly at 6:00pm and closed down at a time decided on-the-fly by the professors, generally 6:30pm. Any forms submitted after the deadline will be automatically rejected and graded as zero. The quizzes will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 6:30 and 7:00 there will be a Q&A period where you'll be able to ask questions about the course and quiz.
+- **Project** (60% of the total grade): You will work in small groups of 2-4 around a recent paper in speech or language processing which has existing code. But you will be evaluated individually on the basis of your engagement in the group work. Your task will be 1) to replicate the main result of the paper, 2) run an experiment testing a new question not tested in the paper (propose another approach/improvement to the task, or make the method work on another task or another dataset). You will present your plan in a one-page document for 14 February (specify what you want to do, the planning, and how you will collaborate within the group), and your results in a 4-page document (deadline: 28 March) and 10-minute oral presentation (+ 5 minutes of questions) - time slots TBA between 31 March and 11 April.
+
+### Schedule
+
+TBD
+
+- Deadline for sending the 4-page project report FOR SENDING the 4-PAGE PROJECT REPORT: TBD (late submissions will be penalised by 1 point/20 every day)
+- Oral presentation (remote): 10-minute presentation + 5 minutes of questions. TBD
+
+
+### Project topics
+
+- Project 1:  NLP-Lexical Semantics 
+- Project 2: Hate speech detection 
+- Project 3: Translation 
+- Project 4: Text-Image Multimodal models
+- Project 5: Speech recognition in a low resource language
+- Project 6: Speech language models
+- Project 7: language emergence
+
+Details [HERE](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Project_topics) 
+
+### Q&A
+
+_What happens if I get less than 10/20 on average? Can I take another exam?_
+
+Any obtained grade is final, so there is no possibility of resitting the exam.
+
+_What happens if i cannot be present to the course, and therefore cannot do the online quiz?_
+
+Failure to submit the quiz on time will result in a mark of 0/20 for that quiz, unless you can demonstrate that it was materially impossible for you to be present to the course. Such documented requestes should be sent to mva.speech.language@gmail.com together with the name and date of the missed quiz. The best 5 grades out of the 6 quizzes will be used for the average, giving you the possibility of skipping one quiz.
+
+
+
