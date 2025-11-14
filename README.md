@@ -57,15 +57,15 @@ Evaluation consists of 2 parts:
 
 ### Schedule
 
-- 15/01/2026: #1: Introduction and Language modelling part 1 (Benoît Sagot)
-- 22/01/2026: #2: Language modelling part 2 (Benoît Sagot)
-- 29/01/2026: #3: Sentiment Analysis (Chloé Clavel)
-- 05/02/2026: #4: Machine Translation (Rachel Bawden)
-- 12/02/2026: #5: Speech 1: acoustic models for ASR (Maxime Poli)
-- 26/02/2026: #6: Speech 2: language models for ASR (Emmanuel Dupoux)
-- 05/03/2026: #7: Speech 3: speech foundation models (Emmanuel Dupoux)
-- 12/03/2026: #8 Dialogue (Chloé Clavel)
-- 19/03/2026: #9 Guest lecture: To be confirmed
+- 15/01/2026: [#1: Introduction and Language modelling part 1](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%231) (Benoît Sagot)
+- 22/01/2026: [#2: Language modelling part 2](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%232) (Benoît Sagot)
+- 29/01/2026: [#3: Sentiment Analysis](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%233) (Chloé Clavel)
+- 05/02/2026: [#4: Machine Translation](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%234) (Rachel Bawden)
+- 12/02/2026: [#5: Speech 1: acoustic models for ASR](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%235) (Maxime Poli)
+- 26/02/2026: [#6: Speech 2: language models for ASR](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%236) (Emmanuel Dupoux)
+- 05/03/2026: [#7: Speech 3: speech foundation models](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%237) (Emmanuel Dupoux)
+- 12/03/2026: [#8 Dialogue](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%238) (Chloé Clavel)
+- 19/03/2026: [#9 Guest lecture](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%239): To be confirmed
 
 
 - Deadline for sending the 4-page project report (late submissions will be penalised by 1 point/20 every day): TBD
