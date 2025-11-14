@@ -1,4 +1,4 @@
-# MVA_2026_SNLP
+# MVA 2026 - SNLP (Speech and Natural Language Processing)
 
 MVA Course "Algorithms for speech and natural language processing", 2026 
 
@@ -7,13 +7,15 @@ MVA Course "Algorithms for speech and natural language processing", 2026
 
 ## Course organisers
 
-This year, the course is co-organised by: Chloé Clavel (Inria), Emmanuel Dupoux (ENS), Benoît Sagot (Inria) and Rachel Bawden (Inria) 
+This year, the course is given by: Rachel Bawden (Inria), Chloé Clavel (Inria), Emmanuel Dupoux (ENS), Benoît Sagot (Inria) and Maxime Poli (ENS)
 
 ## Contact information
 
 For any questions/requests related to this course, use this address: mva.speech.language@gmail.com.
 
 ## Course materials
+
+You can find course materials in the individual folders for each class (slides, reading, exercices, etc.).
 
 ### Course Objectives
 
@@ -22,7 +24,7 @@ Speech and natural language processing is a subfield of artificial intelligence 
 Topics:
 
 - speech features & signal processing
-- hidden markov & finite state modeling
+- hidden markov & finite state modelling
 - word embeddings
 - deep learning for NLP (RNNs, transformers)
 - neural language modelling, including large language models (LLMs)
