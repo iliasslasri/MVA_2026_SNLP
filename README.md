@@ -52,7 +52,7 @@ Each three-hour slot will have a lecture lasting approximately two hours, follow
 ### Evaluation
 
 Evaluation consists of 2 parts:
-- **Quizzes** (40% of the total grade): You will be given a link to an online questionnaire (google form) and will have 30 minutes to complete the questionnaire at the end of the lecture. Any forms submitted after the form is closed will be automatically rejected and graded as zero. The quizzes will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average.
+- **Quizzes** (40% of the total grade): For all classes except from the first and last classes, you will be given a link to an online questionnaire (google form) and will have 30 minutes to complete the questionnaire at the end of the lecture. Any forms submitted after the form is closed will be automatically rejected and graded as zero. The quizzes will contain comprehension questions and the best 6 grades out of the 7 quizzes will be used for the average.
 - **Project** (60% of the total grade): You will work in small groups of 2-4 around a recent paper in speech or language processing which has existing code. But you will be evaluated individually on the basis of your engagement in the group work. Your task will be 1) to replicate the main result of the paper, 2) run an experiment testing a new question not tested in the paper (propose another approach/improvement to the task, or make the method work on another task or another dataset). You will present your plan in a one-page document for an initial deadine (TBD) (specify what you want to do, the planning, and how you will collaborate within the group), and your results in a 4-page document (deadline TBD) and 10-minute oral presentation (+ 5 minutes of questions) - time slots TBA.
 
 ### Schedule
@@ -84,7 +84,7 @@ Any obtained grade is final, so there is no possibility of resitting the exam.
 
 _What happens if i cannot be present to the course, and therefore cannot do the online quiz?_
 
-Failure to submit the quiz on time will result in a mark of 0/20 for that quiz, unless you can demonstrate that it was materially impossible for you to be present to the course. Such documented requestes should be sent to mva.speech.language@gmail.com together with the name and date of the missed quiz. The best 5 grades out of the 6 quizzes will be used for the average, giving you the possibility of skipping one quiz.
+Failure to submit the quiz on time will result in a mark of 0/20 for that quiz, unless you can demonstrate that it was materially impossible for you to be present to the course. Such documented requestes should be sent to mva.speech.language@gmail.com together with the name and date of the missed quiz. The best 6 grades out of the 7 quizzes will be used for the average, giving you the possibility of skipping one quiz.
 
 
 
