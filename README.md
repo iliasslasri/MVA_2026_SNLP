@@ -1,4 +1,4 @@
-# MVA 2026 - SNLP (Speech and Natural Language Processing)
+# MVA 2026 - SNLP (Speech and NLP)
 
 MVA Course "Algorithms for speech and natural language processing", 2026 
 
