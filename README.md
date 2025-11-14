@@ -7,7 +7,7 @@ MVA Course "Algorithms for speech and natural language processing", 2026
 
 ## Course organisers
 
-This year, the course is given by: Rachel Bawden (Inria), Chloé Clavel (Inria), Emmanuel Dupoux (ENS), Benoît Sagot (Inria) and Maxime Poli (ENS)
+This year, the course is given by: Rachel Bawden (Inria), Chloé Clavel (Inria), Benoît Sagot (Inria), Emmanuel Dupoux (ENS) and Maxime Poli (ENS)
 
 ## Contact information
 
