@@ -61,9 +61,9 @@ Evaluation consists of 2 parts:
 - 22/01/2026: #2: Language modelling part 2 (Benoît Sagot)
 - 29/01/2026: #3: Sentiment Analysis (Chloé Clavel)
 - 05/02/2026: #4: Machine Translation (Rachel Bawden)
-- 12/02/2026: #5: Speech 1: acoustic models for ASR
-- 26/02/2026: #6: Speech 2: language models for ASR
-- 05/03/2026: #7: Speech 3: speech foundation models
+- 12/02/2026: #5: Speech 1: acoustic models for ASR (Maxime Poli)
+- 26/02/2026: #6: Speech 2: language models for ASR (Emmanuel Dupoux)
+- 05/03/2026: #7: Speech 3: speech foundation models (Emmanuel Dupoux)
 - 12/03/2026: #8 Dialogue (Chloé Clavel)
 - 19/03/2026: #9 Guest lecture: To be confirmed
 
