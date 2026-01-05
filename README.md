@@ -88,5 +88,8 @@ _What happens if i cannot be present to the course, and therefore cannot do the 
 
 Failure to submit the quiz on time will result in a mark of 0/20 for that quiz, unless you can demonstrate that it was materially impossible for you to be present to the course. Such documented requestes should be sent to mva.speech.language@gmail.com together with the name and date of the missed quiz. The best 6 grades out of the 7 quizzes will be used for the average, giving you the possibility of skipping one quiz.
 
+_Will the course be recorded and made available afterwards so that we can watch it later if we’re unable to attend?_
+
+No.
 
 
