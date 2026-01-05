@@ -45,7 +45,7 @@ Basic linear algebra, calculus, probability theory, basic machine/deep learning
 
 ### 9 classes
 
-The course consists of 9 three-hours slots. This year, it will take place in person, on Thursdays from 2pm to 5pm in the Salle des Actes at the Ecole Normale Supérieure, (ENS, 45 rue d'ULM, 5e).
+**The course consists of 9 three-hours slots. This year, it will take place in person, on Thursdays from 2pm to 5pm in the Salle des Actes at the Ecole Normale Supérieure, (ENS, 45 rue d'ULM, 5e).**
 
 Each three-hour slot will have a lecture lasting approximately two hours, followed by a quiz and Q&As.
 
