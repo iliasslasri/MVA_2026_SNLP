@@ -55,9 +55,11 @@ Each three-hour slot will have a lecture lasting approximately two hours, follow
 
 Evaluation consists of 2 parts:
 - **Quizzes** (40% of the total grade): For all classes except from the first and last classes, you will be given a link to an online questionnaire (google form) and will have 30 minutes to complete the questionnaire at the end of the lecture. Any forms submitted after the form is closed will be automatically rejected and graded as zero. The quizzes will contain comprehension questions and the best 6 grades out of the 7 quizzes will be used for the average.
-- **Project** (60% of the total grade): You will work in small groups of 2-4 around a recent paper in speech or language processing which has existing code. But you will be evaluated individually on the basis of your engagement in the group work. Your task will be 1) to replicate the main result of the paper, 2) run an experiment testing a new question not tested in the paper (propose another approach/improvement to the task, or make the method work on another task or another dataset). You will present your plan in a one-page document for an initial deadine (TBD) (specify what you want to do, the planning, and how you will collaborate within the group), and your results in a 4-page document (deadline TBD) and 10-minute oral presentation (+ 5 minutes of questions) - time slots TBA.
+- **Project** (60% of the total grade): You will work in small groups of 2-4 around a recent paper in speech or language processing which has existing code. But you will be evaluated individually on the basis of your engagement in the group work. Your task will be 1) to replicate the main result of the paper, 2) run an experiment testing a new question not tested in the paper (propose another approach/improvement to the task, or make the method work on another task or another dataset). You will present your plan in a one-page document for an initial deadine (23rd January) (specify what you want to do, the planning, and how you will collaborate within the group), and your results in a 4-page document (deadline 26th March) and 10-minute oral presentation (+ 5 minutes of questions) - time slots TBA.
 
 ### Schedule
+
+Lectures:
 
 - 15/01/2026: [#1: Introduction and Language modelling part 1](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%231) (Benoît Sagot)
 - 22/01/2026: [#2: Language modelling part 2](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%232) (Benoît Sagot)
@@ -69,14 +71,19 @@ Evaluation consists of 2 parts:
 - 12/03/2026: [#8 Dialogue](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%238) (Chloé Clavel)
 - 19/03/2026: [#9 Guest lecture](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%239): Gabriel Synnaeve (Meta)
 
+Final project schedule:
 
-- Deadline for sending the 4-page project report (late submissions will be penalised by 1 point/20 every day): TBD
+- List of projects released: 23rd January
+- Choice of project topic: 30th January
+- Decision on the composition of groups: 2nd February
+- Deadline for 1-page project report: 20th février
+- Deadline for 4-page project report (late submissions will be penalised by 1 point/20 every day): 26th March 2026
 - Oral presentation (remote): 10-minute presentation + 5 minutes of questions: TBD
 
 
 ### Project topics
 
-TBD
+Watch this space!
 
 ### Q&A
 
