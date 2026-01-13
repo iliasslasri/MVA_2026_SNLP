@@ -73,12 +73,12 @@ Lectures:
 
 Final project schedule:
 
-- List of projects released: 23rd January
-- Choice of project topic: 30th January
-- Decision on the composition of groups: 2nd February
-- Deadline for 1-page project report: 20th février
-- Deadline for 4-page project report (late submissions will be penalised by 1 point/20 every day): 26th March 2026
-- Oral presentation (remote): 10-minute presentation + 5 minutes of questions: TBD
+- 23/01/2026: List of projects released
+- 30/01/2026: Choice of project topic
+- 02/01/2026: Decision on the composition of groups
+- 20/02/2026: Deadline for 1-page project report
+- 26/03/2026: Deadline for 4-page project report (late submissions will be penalised by 1 point/20 every day)
+- Oral presentation (remote): 10-minute presentation + 5 minutes of questions: date TBD
 
 
 ### Project topics
