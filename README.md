@@ -4,6 +4,7 @@ MVA Course "Algorithms for speech and natural language processing", 2026
 
 ## News
 
+- The first lecture will take place on Thursday 15th January. There will be no quiz during this lecture
 
 ## Course organisers
 
