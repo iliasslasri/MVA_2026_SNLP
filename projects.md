@@ -71,7 +71,8 @@ list the individual contributions of each member in each of the reports and at t
 
 4. [**BERT Has Uncommon Sense: Similarity Ranking for Word Sense BERTology (Gessler and Schneider, 2021)**](https://aclanthology.org/2021.blackboxnlp-1.43/)
    - Project supervisor: Aina - aina.gari-soler@inria.fr
-   - Abstract: Words often have multiple meanings, and some are used more frequently than others (e.g., the noun duck typically refers to an animal but it is also a cricket term). This paper introduces a simple method to investigate how well the BERT model captures less common word meanings.
+   - Abstract: An important question concerning contextualized word embedding (CWE) models like BERT is how well they can represent different word senses, especially those in the long tail of uncommon senses. Rather than build a WSD system as in previous work, we investigate contextualized embedding neighborhoods directly, formulating a query-by-example nearest neighbor retrieval task and examining ranking performance for words and senses in different frequency bands. In an evaluation on two English sense-annotated corpora, we find that several popular CWE models all outperform a random baseline even for proportionally rare senses, without explicit sense supervision. However, performance varies considerably even among models with similar architectures and pretraining regimes, with especially large differences for rare word senses, revealing that CWE models are not all created equal when it comes to approximating word senses in their native representations.
+   - Project description: Words often have multiple meanings, and some are used more frequently than others (e.g., the noun duck typically refers to an animal but it is also a cricket term). This paper introduces a simple method to investigate how well the BERT model captures less common word meanings.
    - Code: [https://github.com/lgessler/bert-has-uncommon-sense/tree/master](https://github.com/lgessler/bert-has-uncommon-sense/tree/master)
 
 ---
@@ -80,7 +81,12 @@ list the individual contributions of each member in each of the reports and at t
   - Project supervisor: Maxime Poli - maxime.poli@ens.psl.eu
   - Code: [https://github.com/espnet/espnet/tree/master/egs2/ml_superb](https://github.com/espnet/espnet/tree/master/egs2/ml_superb)
   - Abstract: Self-supervised speech representation learning (SSL) is the core component of modern speech processing systems. These models are trained on large quantities of unlabeled speech using a pretext task that enables them to learn contextualized representations. The use of such representations has led to significant improvements in downstream tasks, such as speech recognition, speaker diarization, or emotion recognition. Initially, these models were developed in English only. However, there has been a growing interest in the speech community in applying SSL to multilingual and low-resource settings. The project will consist of using a pretrained SSL model (HuBERT, wav2vec 2.0, etc.), freezing its parameters, and implementing speech recognition with a CTC loss using only 10 minutes / 1h of speech in a low-resource language, following the procedure outlined in ML-SUPERB.
-Some ideas for extensions: comparison with other monolingual or multilingual models, comparison of performance between finetuning languages, other tasks (phone recognition, language identification...), other training procedure (LoRA or other PEFT methods as in ML-SUPERB 2.0, etc.), multilingual finetuning vs monolingual finetuning.
+  - Some ideas for extensions:
+    - Comparison with other monolingual or multilingual models
+    - Comparison of performance between finetuning languages
+    - Other tasks (phone recognition, language identification...)
+    - Other training procedure (LoRA or other PEFT methods as in ML-SUPERB 2.0, etc.)
+    - Multilingual finetuning vs. monolingual finetuning.
 
 ---
 
