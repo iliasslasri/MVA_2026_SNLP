@@ -65,6 +65,7 @@ Lectures:
 
 - 15/01/2026: [#1: Introduction and Language modelling part 1](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%231) (Benoît Sagot)
 - 22/01/2026: [#2: Language modelling part 2](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%232) (Benoît Sagot)
+  - [Quiz](https://forms.gle/BYsSQcc91E8RkvjX8)
 - 29/01/2026: [#3: Sentiment Analysis](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%233) (Chloé Clavel)
 - 05/02/2026: [#4: Machine Translation](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%234) (Rachel Bawden)
 - 12/02/2026: [#5: Speech 1: acoustic models for ASR](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%235) (Maxime Poli)
