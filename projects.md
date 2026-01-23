@@ -63,7 +63,7 @@ list the individual contributions of each member in each of the reports and at t
 
 
 3. [**Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders (Deng et al., 2025)**](https://aclanthology.org/2025.acl-long.229/)
-  - Project supervisor: Gabrielle - gabrielle.le-bellier@inria.fr
+  - Project supervisor: Gabrielle Le Bellier - gabrielle.le-bellier@inria.fr
   - Abstract: Large Language Models (LLMs) are widely used by speakers of different languages and are expected to both understand and generate text across a wide range of languages. As a result, strong multilingual capabilities are essential for their effective deployment. Efforts have recently been made to investigate and enhance their multilingual capabilities. This paper proposes the use of Sparse Auto-Encoders (SAEs) to study the internal representations of LLMs. The authors show the existence of language-specific features through code-switching experiments and feature ablations. Furthermore, these language-specific features are used to guide steering vectors, enabling controlled generation in a desired target language.
  - After replicating the paper's results, you are encouraged to explore extensions that exploit the language-specific features. Possible directions include testing new datasets or tasks, or studying languages that were not considered in the paper. 
  - Resources: [Codebase](https://github.com/Aatrox103/multilingual-llm-features)
