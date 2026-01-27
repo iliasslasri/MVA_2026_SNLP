@@ -4,8 +4,9 @@ MVA Course "Algorithms for speech and natural language processing", 2026
 
 ## News
 
-- 23/01/2025 - Project topics are available [here](https://github.com/rbawden/MVA_2026_SNLP/blob/main/projects.md)
-- 15/01/2026 - The slides for the first lecture are now available [here](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%231/)
+- 27/02/2026 - The slides for lecture 2 are no available [here](https://github.com/rbawden/MVA_2026_SNLP/tree/main/Course_%232)
+- 23/01/2026 - Project topics are available [here](https://github.com/rbawden/MVA_2026_SNLP/blob/main/projects.md)
+- 15/01/2026 - The slides for lecture 1 are now available [here](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%231/)
 - The first lecture will take place on Thursday 15th January. There will be no quiz during this lecture
 
 ## Course organisers
