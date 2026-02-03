@@ -4,8 +4,8 @@
 A reminder of the deadlines (also available on the main [README](https://github.com/rbawden/MVA_2026_SNLP/blob/main/README.md)):
 
 - [x] 23/01/2026: List of projects released (on this page)
-- 30/01/2026: Choice of project topic (first come first served)
-- 02/01/2026: Decision on the composition of groups (randomly assigned based on choices)
+- [x] 30/01/2026: Choice of project topic (first come first served).
+- [x] 02/01/2026: Decision on the composition of groups (randomly assigned based on choices). Check the email to see your group
 - 20/02/2026: Deadline for 1-page project report
 - 26/03/2026: Deadline for 4-page project report (late submissions will be penalised by 1 point/20 every day)
 - Oral presentation (remote): 10-minute presentation + 5 minutes of questions: date TBD
