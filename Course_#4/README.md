@@ -7,4 +7,3 @@
 - Date and time: 05/02/2026 2pm-5pm
 - Place: Salle des Actes, 45 rue d'Ulm
 
-## Reading materials
