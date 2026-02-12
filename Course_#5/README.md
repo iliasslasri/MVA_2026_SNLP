@@ -8,3 +8,5 @@
 - Place: Salle des Actes, 45 rue d'Ulm
 
 ## Reading materials
+
+[Jurafsky and Martin. Speech and Language Processing, Third Edition. Chapters 14-16, Appendix A](https://web.stanford.edu/~jurafsky/slp3)
