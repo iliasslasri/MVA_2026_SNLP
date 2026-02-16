@@ -101,6 +101,9 @@ list the individual contributions of each member in each of the reports and at t
     - Introduce new augmentations
     - Evaluation of robustness across languages
     - Comparison with newer speech encoders (SpidR, DinoSR, HuBERT + Spin, mHuBERT-147, XEUS, etc.)
+  - Code to use the pretrained HuBERT and KMeans:
+    - [textlesslib](https://aclanthology.org/2022.naacl-demo.1): https://github.com/facebookresearch/textlesslib
+    - Simpler interface that works out-of-the-box: https://github.com/mxmpl/speech_encoder
 
 ---
 
