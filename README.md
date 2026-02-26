@@ -78,7 +78,7 @@ Lectures:
 - 26/02/2026: [#6: Speech 2: language models for ASR](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%236) (Emmanuel Dupoux)
 - 05/03/2026: [#7: Speech 3: speech foundation models](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%237) (Emmanuel Dupoux)
 - 12/03/2026: [#8 Dialogue](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%238) (Chloé Clavel)
-- 19/03/2026: [#9 Guest lecture](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%239): Gabriel Synnaeve (Meta)
+- 19/03/2026: [#9 Guest lecture: LLMs and Code](https://github.com/rbawden/MVA_2026_SNLP/blob/main/Course_%239): Gabriel Synnaeve (Meta)
 
 Final project schedule:
 
