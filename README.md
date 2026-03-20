@@ -4,6 +4,7 @@ MVA Course "Algorithms for speech and natural language processing", 2026
 
 ## News
 
+- 20/03/2026 - The slides for lecture 9 are now available [here](https://github.com/rbawden/MVA_2026_SNLP/tree/main/Course_%239)
 - 16/02/2026 - Code for project 6 is now available, see [here](https://github.com/rbawden/MVA_2026_SNLP/blob/main/projects.md)
 - 12/02/2026 - The slides for lecture 5 are now available [here](https://github.com/rbawden/MVA_2026_SNLP/tree/main/Course_%235)
 - 05/02/2026 - The slides for lecture 4 are now available [here](https://github.com/rbawden/MVA_2026_SNLP/tree/main/Course_%234)
